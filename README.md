@@ -1,8 +1,6 @@
 <img src="https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg">
-
-Hi, I'm Md Hridoy Islam 👋
-
-👑 I am Web Developer
+<h1 align="center">Hi 👋, I'm Md Hridoy Islam</h1>
+<h3 align="center">A Full-stack Developer</h3>
 🖊️ Love to write code
 🎤 Like to share my knowledge
 
