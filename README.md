@@ -1,4 +1,4 @@
-<img scr="https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg">
+<img src="https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg">
 
 Hi, I'm Md Hridoy Islam 👋
 
